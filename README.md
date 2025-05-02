@@ -29,7 +29,6 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -80,5 +79,5 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 
 
 ---
-🔥 Building powerful web apps & AI tools that make life easier — from Bhopal to the world! 🌍
+🔥 Building powerful web apps & AI tools that make life easier — from Supaul to the world! 🌍
 
