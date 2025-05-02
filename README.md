@@ -80,7 +80,7 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | 💼 **Job Portal** | Full-featured job search platform with login, apply, and admin dashboard features | [View Project](https://dawarjob.netlify.app/) |
-| 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project](https://dawarecom.netlify.app/) |
+| 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project]() |
 
 
 <h3 align="center">
