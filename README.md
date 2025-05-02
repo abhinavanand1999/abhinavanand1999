@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E5119F&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I'm+Abhinav+Anand......🏃🏼‍♂️‍➡️.....+🧑‍💼!;I'm+Full-stack+Developer.......🧑‍💻!;I'm+Software+Developer.........🧑‍💻!;I'm+App+Developer........🧑🏼‍💻!;I'm+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=99119F&center=true&vCenter=true&width=700&height=40&lines=Hello!+💕+I'm+Abhinav+Anand......🏃🏼‍♂️‍➡️.....+🧑‍💼!;I'm+Full-stack+Developer.......🧑‍💻!;I'm+Software+Developer.........🧑‍💻!;I'm+App+Developer........🧑🏼‍💻!;I'm+Designer.........📝🧑‍💻!;I+Love💘+Coding+.......🧑🏻‍💻!">
 </h3>
 
 
@@ -80,11 +80,11 @@ I believe in writing clean, efficient, and optimized code — and I'm always hun
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | 💼 **Job Portal** | Full-featured job search platform with login, apply, and admin dashboard features | [View Project](https://dawarjob.netlify.app/) |
-| 🛒 **E-Commerce Website** | Fully functional shopping site with cart, filters, checkout & responsive design | [View Project]() |
+| 🛒 **Bloging Website** | Fully functional website with cart, filters, checkout & responsive design | [View Project](https://festivalgyaan.in/) |
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=G1496D&center=true&vCenter=true&width=700&height=40&lines=Hello!👋🏼+Do+you+want+to+see+my+projects+......+?;How+did+you+like+my+GitHub+profile+......+?">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=G1412D&center=true&vCenter=true&width=700&height=40&lines=Hello!👋🏼+Do+you+want+to+see+my+projects+......+?;How+did+you+like+my+GitHub+profile+......+?">
 </h3>
 
 
